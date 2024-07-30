@@ -81,7 +81,6 @@ namespace PlayableShaderGlobal
                      break;
                   }
             }
-            Shader.SetGlobalVector(key, d);
          }
       }
    }
